@@ -1,0 +1,7 @@
+# ============================================================================
+# .gitattributes — nginx-config
+# ============================================================================
+# Explicitly maps `.conf` virtual host files to the Nginx grammar so GitHub
+# Linguist displays the Nginx language badge and syntax highlighting.
+# ============================================================================
+*.conf linguist-language=Nginx
